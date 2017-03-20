@@ -11,10 +11,12 @@ To maximize the performance of the Jetson TX2, you can use the jetson_clocks.sh 
 
 For best results on the Jetson TX2 install:
 
-L4T 27.1 (Ubuntu 16.04)
-OpenCV4Tegra
-CUDA 8.0
-cuDNN v5.1
+<ul>
+<li>L4T 27.1 (Ubuntu 16.04)</li>
+<li>OpenCV4Tegra</li>
+<li>CUDA 8.0</li>
+<li>cuDNN v5.1</li>
+</ul>
 
 These can all be installed with JetPack 3.
 
