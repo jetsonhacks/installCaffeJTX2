@@ -1,6 +1,9 @@
 # installCaffeJTX2
 Install Caffe on the NVIDIA Jetson TX2 Development Kit.
 
+Caffe: a fast open framework for deep learning. http://caffe.berkeleyvision.org/
+Caffe source code is here: https://github.com/BVLC/caffe
+
 Scripts to install Caffe and dependencies on the NVIDIA Jetson TX2 Development Kit.
 This script is for L4T 27.1, an Ubuntu 16.04 variant. 
 
